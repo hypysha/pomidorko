@@ -1,0 +1,29 @@
+#timer {
+    font-size: 166px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 170px;
+    font-family: Impact, fantasy;
+
+  }
+
+  button{
+    font-size: 46px;
+    padding: 10px;
+    border: none;
+    background-color:#f4beed;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    left: 41%;
+    transform: translate(-50%, 0);
+    margin-left: 40px;
+  }
+  
+ 
+
+  body{
+    background-color: rgb(202, 211, 245);
+  }
+  
